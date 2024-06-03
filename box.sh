@@ -1,4 +1,5 @@
 #!/bin/bash
-
-read -p "Enter a number:" num
-echo "You entered: $num1"
+# Assigning a value to a variable
+name=”Jayesh”
+age=21
+echo $name $age
